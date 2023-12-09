@@ -1,0 +1,22 @@
+{
+  name: therejectfactions,
+  displayName: The Rejected Factions
+  description: 
+  '''
+  [darkgray]The reject factions... Have returned...
+  [green]We are back... and we are stronger than ever...
+  [purple]It's time to die... and you... will... PAY!!!
+  
+  [stat]Adds factions Vythrians (removed from exo), 
+  Synthecans (Scrapped meteor tree from exo), 
+  and Purxtue (may be re-added to exo.)
+  
+  Note to self: WHATEVER YOU DO! DO NOT COPY THE ORIGINAL PURXTUE FROME XO JUST IN CASE THEY GET RE-ADDED
+  
+  Sprites made by self and my spriter Aegires (who has been super inactive lately.)
+  '''
+  author: Cle
+  version: 5
+  subtitle: this mod is more of fun than proper
+  minGameVersion: 136
+}
